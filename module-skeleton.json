@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-hello-flutter",
+  "capabilityKey": "liberusoftware/module-cms-hello",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_hello_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/cms-hello.md",
+  "presentationPlan": "projects/cms/flutter/cms-hello.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
